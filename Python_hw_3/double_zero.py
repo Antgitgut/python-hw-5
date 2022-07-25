@@ -9,10 +9,5 @@ def double_zero(array):
 
             print(L)
 
-
-
-
-
-
 double_zero([1, 2, 3, 4, 5, 0, 3, 0])
 
